@@ -22,7 +22,7 @@ The project uses the [PlantVillage Dataset](https://www.kaggle.com/datasets/abda
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/username/plant-disease-prediction.git
+git clone https://github.com/Sagar-Kumar01/plant_disease_prediction_model.git
 ```
 
 ### Navigate to the Directory
