@@ -47,12 +47,6 @@ conda activate plant-disease
 
 ## Running the Project
 
-### Train the Model
-Run the following command to train the machine learning model:
-```bash
-python src/model_training.py
-```
-
 ### Launch the Streamlit App
 Start the Streamlit app with:
 ```bash
@@ -68,23 +62,16 @@ Once started, open your browser and navigate to the provided URL (e.g., `http://
 project_name/
 ├── README.md
 ├── requirements.txt
-├── src/
-│   ├── model_training.py
-│   ├── preprocessing.py
-│   └── inference.py
+│   
 ├── streamlit_app/
-│   ├── app.py
+│   ├── main.py
 │   └── assets/
 │       └── example_image.jpg
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── sample_data.csv
 ├── models/
-│   └── trained_model.h5
+│   └── plant_disease_prediction_model.h5
 ├── notebooks/
-│   ├── exploratory_analysis.ipynb
-│   └── model_training.ipynb
+│   ├── plant_disease_prediction_model.ipynb
+│   
 └── docs/
     └── architecture_diagram.png
 ```
