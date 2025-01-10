@@ -25,7 +25,7 @@ The project uses the [PlantVillage Dataset](https://www.kaggle.com/datasets/abda
 - **Accuracy**: 92%
 - **Confusion Matrix**:
 
- ![image alt(]https://github.com/Sagar-Kumar01/plant_disease_prediction_model/blob/ba8f98978630d0c4ba464e0baa5e7a3d110cf62e/plant_disease_prediction_model/matrix.png)
+ ![image alt](https://github.com/Sagar-Kumar01/plant_disease_prediction_model/blob/ba8f98978630d0c4ba464e0baa5e7a3d110cf62e/plant_disease_prediction_model/matrix.png)
 
 ## Future Enhancements
 
