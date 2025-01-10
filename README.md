@@ -1,14 +1,14 @@
 
 # Plant Disease Prediction
 
-A machine learning project to detect plant diseases using image classification with a Streamlit frontend.
+A machine learning project to detect plant diseases using image classification.
 
 ---
 
 ## Key Features
 
 - **Disease Detection**: Identifies plant diseases from images of leaves.
-- **Streamlit App**: A user-friendly interface for easy interaction.
+- **Frontend**: A user-friendly interface for easy interaction.
 
 ---
 
@@ -55,28 +55,6 @@ streamlit run streamlit_app/app.py
 
 Once started, open your browser and navigate to the provided URL (e.g., `http://localhost:8501`).
 
----
-
-## Project Structure
-```
-project_name/
-├── README.md
-├── requirements.txt
-│   
-├── streamlit_app/
-│   ├── main.py
-│   └── assets/
-│       └── example_image.jpg
-├── models/
-│   └── plant_disease_prediction_model.h5
-├── notebooks/
-│   ├── plant_disease_prediction_model.ipynb
-│   
-└── docs/
-    └── architecture_diagram.png
-```
-
----
 
 ## Demo
 
@@ -91,30 +69,6 @@ project_name/
 - **Confusion Matrix**:
 
   ![Confusion Matrix](docs/confusion_matrix.png)
-
----
-
-## Deployment
-
-### Streamlit Cloud
-1. Create an account on [Streamlit Cloud](https://streamlit.io/cloud).
-2. Upload your repository.
-3. Add environment dependencies in the platform's settings.
-
-### Heroku
-1. Install Heroku CLI.
-2. Create a `Procfile` with:
-   ```plaintext
-   web: streamlit run streamlit_app/app.py
-   ```
-3. Push to Heroku:
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   git push heroku main
-   ```
-
----
 
 ## Future Enhancements
 
