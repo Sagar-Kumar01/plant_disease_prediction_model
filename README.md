@@ -17,7 +17,7 @@ A machine learning project to detect plant diseases using image classification.
 The project uses the [PlantVillage Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset). It contains images of healthy and diseased leaves for multiple plant species.
 
 
-## Demo
+## Frontend
 ![Streamlit Demo](docs/demo.gif)
 
 ## Performance Metrics
