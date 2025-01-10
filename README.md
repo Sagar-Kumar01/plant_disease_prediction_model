@@ -16,52 +16,9 @@ A machine learning project to detect plant diseases using image classification.
 
 The project uses the [PlantVillage Dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset). It contains images of healthy and diseased leaves for multiple plant species.
 
----
-
-## Installation
-
-### Clone the Repository
-```bash
-git clone https://github.com/Sagar-Kumar01/plant_disease_prediction_model.git
-```
-
-### Navigate to the Directory
-```bash
-cd plant-disease-prediction
-```
-
-### Install Dependencies
-
-Using pip:
-```bash
-pip install -r requirements.txt
-```
-
-Using Conda:
-```bash
-conda env create -f environment.yml
-conda activate plant-disease
-```
-
----
-
-## Running the Project
-
-### Launch the Streamlit App
-Start the Streamlit app with:
-```bash
-streamlit run streamlit_app/app.py
-```
-
-Once started, open your browser and navigate to the provided URL (e.g., `http://localhost:8501`).
-
 
 ## Demo
-
-### Streamlit App
 ![Streamlit Demo](docs/demo.gif)
-
----
 
 ## Performance Metrics
 
