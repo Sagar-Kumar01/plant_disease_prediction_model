@@ -18,7 +18,7 @@ The project uses the [PlantVillage Dataset](https://www.kaggle.com/datasets/abda
 
 
 ## Frontend
-![image alt](https://github.com/Sagar-Kumar01/plant_disease_prediction_model/blob/main/plant_disease_prediction_model/demo.jpeg?raw=true)
+![image alt](https://github.com/Sagar-Kumar01/plant_disease_prediction_model/blob/main/plant_disease_prediction_model/demp.jpeg?raw=true)
 
 ## Performance Metrics
 
