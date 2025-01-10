@@ -18,7 +18,7 @@ The project uses the [PlantVillage Dataset](https://www.kaggle.com/datasets/abda
 
 
 ## Frontend
-![Streamlit Demo](docs/demo.gif)
+![image alt]
 
 ## Performance Metrics
 
